@@ -1,4 +1,5 @@
-
+	project link:https://6482bb94d2034321db25df2f--prismatic-sunshine-c8bee9.netlify.app/
+here make frontend using React.js and intregret backend using 3rd perty api
 
 ## Technologies used 
 1. HTML
